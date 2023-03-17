@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "Rey Rameses Jude III S. Macalutas",
+      "age": 20,
+      "quotes": "Live life to the fullest."
+    },
+    {
+      "name": "Jam Macalutas",
+      "age": 19,
+      "quotes": "The Difference between coffee and your Opinion is that I asked for Coffee"
+    }
+  ],
+  "studentinfo": [
+    {
+      "classsection": "Section C",
+      "sectioncode": "T239",
+      "buksuemail": "1901102366@student.buksu.edu.ph"
+    },
+    {
+      "classsection": "Section C",
+      "sectioncode": "T240",
+      "buksuemail": "jam@krazy.com"
+    }
+  ]
+}
