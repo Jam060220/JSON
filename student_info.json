@@ -1,26 +1,26 @@
 {
   "students": [
     {
-      "name": "Rey Rameses Jude III S. Macalutas",
-      "age": 20,
-      "quotes": "This is who I am. Nobody said you had to like it."
+      "Name": "Rey Rameses Jude III S. Macalutas",
+      "Age": 20,
+      "Favorite Quotes": "This is who I am. Nobody said you had to like it."
     },
     {
-      "name": "Jam Macalutas",
-      "age": 19,
+      "Name": "Jam Cute",
+      "Age": 19,
       "quotes": "The Difference between coffee and your Opinion is that I asked for Coffee."
     }
   ],
   "studentinfo": [
     {
-      "classsection": "Section C",
-      "sectioncode": "T239",
-      "buksuemail": "1901102366@student.buksu.edu.ph"
+      "Class Section": "Section C",
+      "Section Code": "T239",
+      "Buksu Email": "1901102366@student.buksu.edu.ph"
     },
     {
-      "classsection": "Section C",
-      "sectioncode": "T240",
-      "buksuemail": "jam@krazy.com"
+      "Class Section": "Section C",
+      "Section Code": "T240",
+      "Buksu Email": "jam@krazy.com"
     }
   ]
 }
